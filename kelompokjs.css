@@ -167,7 +167,7 @@
     }
 
     .navbar .navbar-nav a:hover{
-        color: #FFC600;
+        color: cadetblue;
         font-size: 1.6rem;
     }
 
@@ -175,7 +175,7 @@
         content: '';
         display: block;
         padding-bottom: 0.2rem;
-        border-bottom: 0.1rem solid #FFC600;
+        border-bottom: 0.1rem solid cadetblue;
         transform: scaleX(0);
         transition: 0.2s linear;
     }

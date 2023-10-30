@@ -1,3 +1,7 @@
+//pemberitahuan 
+alert('Selamat Datang di Website Kami')
+
+// sidebar
 const menu = document.querySelector('.navbar #menu');
 const nav = document.querySelector('.navbar .navbar-nav');
 
